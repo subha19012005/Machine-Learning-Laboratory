@@ -1,0 +1,6 @@
+StudentID | Name | Total Logins | Total Submissions
+S101 | Asha | 2 | 0
+S102 | Ravi | 0 | 1
+
+Daily Activity Stats:
+2025-03-10: LOGIN=2, LOGOUT=1, SUBMIT_ASSIGNMENT=1
